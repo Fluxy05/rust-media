@@ -8,6 +8,7 @@ Ce projet est un lecteur vidéo simple utilisant Rust avec le décodage matérie
 - FFmpeg avec support VAAPI
 - SDL2
 - Pilotes VAAPI pour votre GPU
+- Une distribution linux moderne
 
 ### Installation des dépendances sur Ubuntu/Debian
 
