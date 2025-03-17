@@ -1,4 +1,4 @@
-# Lecteur Vidéo Rust avec Décodage Matériel
+# RUST-MEDIA: Un Lecteur Vidéo Rust avec Décodage Matériel
 
 Ce projet est un lecteur vidéo simple utilisant Rust avec le décodage matériel via VAAPI.
 
