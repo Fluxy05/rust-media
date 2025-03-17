@@ -20,7 +20,7 @@ sudo apt install libavcodec-dev libavformat-dev libavutil-dev libsdl2-dev vainfo
 ### Installation des dépendances sur Arch Linux
 
 ```bash
-sudo pacman -S ffmpeg sdl2 intel-media-driver (intel) mesa (amd)
+sudo pacman -S ffmpeg sdl2 intel-media-driver (intel) mesa (amd) nvidia-utils (nvidia officiel)
 ```
 
 ## Compilation
