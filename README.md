@@ -41,7 +41,7 @@ cargo run --release -- /chemin/vers/votre/video.mp4
 Ou après compilation :
 
 ```bash
-./target/release/rust-media /chemin/vers/votre/video.mp4
+./target/release/rust-media-player /chemin/vers/votre/video.mp4
 ```
 
 ## Contrôles
