@@ -224,6 +224,7 @@ fn open_decoders(path: &str) -> Result<(ffmpeg::format::context::Input, Decoder,
     let hw_decoders = match codec_id {
         ffmpeg::codec::id::Id::H264 => vec!["h264_nvdec", "h264_vaapi", "h264_qsv"],
         ffmpeg::codec::id::Id::HEVC => vec!["hevc_nvdec", "hevc_vaapi", "hevc_qsv"],
+        ffmpeg::codec::id::Id::AV1 => vec!["av1_nvdec", "av1_vaapi", "av1_qsv"],
         _ => vec![],
     };
     
