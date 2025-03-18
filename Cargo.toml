@@ -5,6 +5,6 @@ edition = "2021"
 authors = ["Fluxy05"]
 
 [dependencies]
+anyhow = "1.0"
 ffmpeg-next = { version = "7.0", features = ["codec", "format", "software-scaling", "software-resampling"] }
 sdl2 = { version = "0.35", default-features = false }
-anyhow = "1.0" 
