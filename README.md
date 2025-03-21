@@ -1,6 +1,7 @@
 # rust-media-player: Un Lecteur Vidéo Rust avec Décodage Matériel
 
 Ce projet est un lecteur vidéo simple utilisant Rust avec le décodage matériel via VAAPI et NVDEC.
+[ACTUELLEMENT EN DÉVELOPEMENT ACTIF ET N'EST PAS ENCORE FONCTIONEL]
 
 ## Prérequis
 
